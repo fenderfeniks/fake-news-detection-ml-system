@@ -1,4 +1,12 @@
 # Fake News Detection System
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+![Optuna](https://img.shields.io/badge/Optuna-Hyperparameter%20Tuning-orange)
+![NLP](https://img.shields.io/badge/NLP-Text%20Processing-purple)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 An end-to-end machine learning system for detecting fake news using deep learning models, optimized ensembles, and deployed as a REST API.
 
